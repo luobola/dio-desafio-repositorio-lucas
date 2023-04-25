@@ -1,2 +1,2 @@
 # dio-desafio-repositorio-lucas
-repositorio de estudo da DIO
+repositorio de estudo de Projeto da DIO
